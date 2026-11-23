@@ -1,0 +1,6 @@
+HOME (index)
+PEOPLE (page1)
+PLACES (page2)
+SINGULAR PLURAL (page3)
+BIG NUMBERS (page4)
+QUIZ (page5)
